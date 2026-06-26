@@ -1,1 +1,134 @@
 # Sebastian-Jimenez-Caso
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Investigación Especial</title>
+
+<style>
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background: #1f1f1f;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+main{
+    max-width: 900px;
+    margin: 20px auto;
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+h1{
+    margin: 0;
+}
+
+h2{
+    color: #333;
+    margin-top: 30px;
+}
+
+.aviso{
+    background: #ffe8a3;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.foto-sebastian{
+    float: left;
+    width: 250px;
+    height: auto;
+    margin: 0 20px 15px 0;
+    border-radius: 8px;
+    border: 2px solid #333;
+}
+
+ul{
+    line-height: 1.8;
+}
+
+footer{
+    background: #1f1f1f;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>INVESTIGACIÓN ESPECIAL</h1>
+    <p>Desaparición de Roberto Díaz y Elena Díaz</p>
+</header>
+
+<main>
+
+
+<h2>¿Quién es Sebastián Jinemenez?</h2>
+
+<img src="sebastian.jpeg" alt="Sebastián Jinemenez" class="foto-sebastian">
+
+<p>
+Sebastián Jinemenez es un reconocido empresario de la ciudad. Durante años construyó una reputación basada en el éxito de sus negocios y su influencia en distintos sectores económicos. Su nombre es ampliamente conocido entre empresarios y figuras importantes de la región.
+</p>
+
+<p>
+Sin embargo, en las últimas semanas su nombre ha comenzado a aparecer en diversas líneas de investigación relacionadas con la desaparición de Roberto Díaz y Elena Díaz. Aunque no existen conclusiones definitivas, varios testimonios han despertado el interés de las autoridades.
+</p>
+
+<div style="clear: both;"></div>
+
+<h2>La desaparición</h2>
+
+<p>
+Roberto Díaz y Elena Díaz fueron vistos por última vez la noche del 14 de mayo. Desde entonces, familiares y autoridades han intentado reconstruir los hechos para descubrir qué ocurrió. La falta de información clara ha convertido este caso en uno de los más comentados de la ciudad.
+</p>
+
+<h2>Nuevas pistas</h2>
+
+<p>
+Documentos recientemente encontrados y declaraciones de testigos han llevado a los investigadores a revisar antiguos registros, reuniones y movimientos relacionados con varias personas de interés. Entre los nombres mencionados aparece Sebastián Jinemenez.
+</p>
+
+<h2>Preguntas sin respuesta</h2>
+
+<ul>
+    <li>¿Qué ocurrió la noche de la desaparición?</li>
+    <li>¿Por qué algunos testigos mencionaron a Sebastián Jinemenez?</li>
+    <li>¿Existe información que aún permanece oculta?</li>
+    <li>¿Podrá resolverse el caso?</li>
+</ul>
+
+<h2>Investigación en curso</h2>
+
+<p>
+Las autoridades continúan reuniendo información y entrevistando testigos. Cada nueva evidencia podría acercar a los investigadores a descubrir la verdad sobre lo ocurrido con Roberto y Elena Díaz.
+</p>
+
+</main>
+
+<footer>
+© 2026 - Archivo de Investigación
+</footer>
+
+</body>
+</html>
+```
+>
